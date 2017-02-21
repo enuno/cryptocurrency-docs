@@ -14,6 +14,7 @@ Listed here are a collection of links and information reguarding the most truste
   - [BlackCoin](#blackcoin)
   - [DogeCoin](#dogecoin)
   - [Stratis](#stratis)
+  - [Qtum](#qtum)
 
 - [Crypto Assets](#crypto-assets)
   - [Ripple](#ripple)
@@ -89,6 +90,10 @@ Listed here are a collection of links and information reguarding the most truste
 * [Market Cap](http://coinmarketcap.com/currencies/stratis/) - Stratis Market Capitalization Chart
 * [Blockchain Explorer](https://chainz.cryptoid.info/strat/) - Stratis Blockchain Explorer
 
+#### Qtum
+* [Official Site](https://qtum.org/) - Official Qtum Website
+* [Official Sourcecode](https://github.com/qtumproject/) - Qtum Github Repo
+
 ### Crypto Assets
 #### Ripple
 * [Official Site](https://ripple.com/) - Official Ripple Website
@@ -147,6 +152,8 @@ Listed here are a collection of links and information reguarding the most truste
 #### ASIC Miners
 ##### X11 ASICs
 * [Baikalminer](http://www.baikalminer.com/#our-works) - Multi-algo ASICs capable of mining X11, X13, X14, Quark, and Qubit
+* [Pinidea](http://pinidea.io) - X11/Dash Mining Devices: DR-1, DU-1, DR-2
+* [iBeLink](http://www.dualminer.com/iBeLink-DM384M-Dash-and-X11-Miner_p_36.html) - iBeLink DM384M Dash and X11 Miner
 
 ### Crypto News
 * [CoinDesk](http://www.coindesk.com/)
