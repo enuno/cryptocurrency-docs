@@ -20,7 +20,7 @@ Listed here are a collection of links and information reguarding the most truste
   - [Ripple](#ripple)
   - [BitShares](#bitshares)
   - [NXT](#nxt)
-  - [CounterParty](#counterparty)
+  - [CounterParty](#counterparty)C
   - [Storjcoin X](#storejcoin-x)
 
 - [Market Data](#market-data)
@@ -28,9 +28,15 @@ Listed here are a collection of links and information reguarding the most truste
   - [Market Capitalization](#marketcap)
   - [Exchange Data](#exchange-data)
 
+- [Top Exchanges](#top-exchanges)
+  - [Bitcoin Exchanges](#bitcoin-exchanges)
+  - [Altcoin Exchanges](#altcoin-exchanges)
+
 - [Mining](#mining)
   - [ASIC Miners](#asic-miners)
+    - [SHA256 ASICs](#sha256-asics)
     - [X11 ASICs](#x11-asics)
+    - [Mining Retailers](#mining-retailers)
 
 - [Crypto News](#crypto-news)
 
@@ -106,6 +112,7 @@ Listed here are a collection of links and information reguarding the most truste
 * [Official Sourcecode](https://github.com/Bitshares/bitshares-core) - BitShare Github Repo
 * [Market Cap](http://coinmarketcap.com/currencies/bitshares/) - BitShare Market Capitalization Chart
 * [Blockchain Explorer](https://cryptofresh.com/) - BitShare Blockchain Explorer
+* [OpenLedger](https://www.openledger.info/) - Bitshares Online Asset Trading Platform
 
 #### NXT
 * [Official Site](https://nxt.org/) - Official NXT Website
@@ -148,12 +155,25 @@ Listed here are a collection of links and information reguarding the most truste
 * [ZeroBlock](https://www.zeroblock.com)
 * [Quandl](https://www.quandl.com/collections/markets/bitcoin-data)
 
+### Top Exchanges
+#### Bitcoin Exchanges
+* [BitStamp](https://www.bitstamp.net/)
+
+#### Altcoin Exchanges
+* [Poloniex](https://poloniex.com/)
+
 ### Mining
 #### ASIC Miners
+##### SHA256 ASICs
+* [Bitmain](https://shop.bitmain.com/) - Antminer S9, R4 Bitcoin Miner
+* [Avalon Miners](https://canaan.io/) - Avalon 6 Bitcoin Miner
+* [Spondoolies](http://spondoolies-tech.co/) - SP31, SP45, SP50 Bitcoin Miner
 ##### X11 ASICs
 * [Baikalminer](http://www.baikalminer.com/#our-works) - Multi-algo ASICs capable of mining X11, X13, X14, Quark, and Qubit
 * [Pinidea](http://pinidea.io) - X11/Dash Mining Devices: DR-1, DU-1, DR-2
 * [iBeLink](http://www.dualminer.com/iBeLink-DM384M-Dash-and-X11-Miner_p_36.html) - iBeLink DM384M Dash and X11 Miner
+##### Mining Retailers
+* [Parallel Miner](http://www.parallelminer.com/) - GPU and ASIC miner and accessories
 
 ### Crypto News
 * [CoinDesk](http://www.coindesk.com/)
