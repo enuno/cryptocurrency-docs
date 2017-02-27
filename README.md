@@ -2,7 +2,7 @@
 
 This project is an evolving compilation of bitcoin and other cryptocurrency resources.
 
-Listed here are a collection of links and information reguarding the most trusted and inflential cryptocurrencies, mining and wallet hardware, useful software, official documenation, trusted news publications, and other important on-line resources.
+Listed here is a collection of links and information reguarding the most trusted and inflential cryptocurrencies, mining and wallet hardware, useful software, official documenation, trusted news publications, and other important on-line resources.
 
 - [Cryptocurrencies](#cryptocurrencies)
   - [BitCoin](#bitcoin)
@@ -171,8 +171,11 @@ Listed here are a collection of links and information reguarding the most truste
 
 ### Wallets
 #### Web Wallets
+* [Blockchain.info Wallet](https://blockchain.info/wallet/#/) - Largest on-line bitcoin wallet service w/ [hidden service](https://blockchainbdgpzk.onion/wallet/#/)
+* [TOR wallet](https://torwallet.com/) - [hidden service](http://3hinuo4cve4pdysb.onion/) bitcoin wallet
 * [BSave.io](https://bsave.io/login.php) - Bitcoin wallet and savings account
 * [POSWallet](https://poswallet.com/) - POS Altcoin online staking wallet
+* [StakeMiners](https://stakeminers.com/index.php) - POS online staking wallets
 #### Software Wallets
 
 #### Hardware Wallets
