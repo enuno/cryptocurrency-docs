@@ -172,12 +172,12 @@ Listed here is a collection of links and information reguarding the most trusted
 ### Wallets
 #### Web Wallets
 * [Blockchain.info Wallet](https://blockchain.info/wallet/#/) - Largest on-line bitcoin wallet service w/ [hidden service](https://blockchainbdgpzk.onion/wallet/#/)
-* [TOR wallet](https://torwallet.com/) - [hidden service](http://3hinuo4cve4pdysb.onion/) bitcoin wallet
+* [TOR wallet](https://torwallet.com/) - Privacy-centric bitcoin wallet [hidden service](http://3hinuo4cve4pdysb.onion/)
 * [BSave.io](https://bsave.io/login.php) - Bitcoin wallet and savings account
 * [POSWallet](https://poswallet.com/) - POS Altcoin online staking wallet
 * [StakeMiners](https://stakeminers.com/index.php) - POS online staking wallets
 #### Software Wallets
-
+* [Electrum Bitcoin Wallet](https://electrum.org/#home) - Electrum Bitcoin thin-client wallet
 #### Hardware Wallets
 * [Trezor](https://trezor.io/) - Trezor wallet & password manager
 * [Ledger](https://www.ledgerwallet.com/products) - Ledger Blue, Ledger Nano S, Ledger Nano, Ledger HW.1
