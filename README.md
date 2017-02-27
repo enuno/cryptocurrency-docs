@@ -32,11 +32,18 @@ Listed here are a collection of links and information reguarding the most truste
   - [Bitcoin Exchanges](#bitcoin-exchanges)
   - [Altcoin Exchanges](#altcoin-exchanges)
 
+- [Wallets](#wallets)
+  - [Web Wallets](#web-wallets)
+  - [Software Wallets](#software-wallets)
+  - [Hardware Wallets](#hardware-wallets)
+
 - [Mining](#mining)
   - [ASIC Miners](#asic-miners)
     - [SHA256 ASICs](#sha256-asics)
     - [X11 ASICs](#x11-asics)
     - [Mining Retailers](#mining-retailers)
+
+- [Bitcoin Mixers](#bitcoin-mixers)
 
 - [Crypto News](#crypto-news)
 
@@ -162,6 +169,18 @@ Listed here are a collection of links and information reguarding the most truste
 #### Altcoin Exchanges
 * [Poloniex](https://poloniex.com/)
 
+### Wallets
+#### Web Wallets
+* [BSave.io](https://bsave.io/login.php) - Bitcoin wallet and savings account
+* [POSWallet](https://poswallet.com/) - POS Altcoin online staking wallet
+#### Software Wallets
+
+#### Hardware Wallets
+* [Trezor](https://trezor.io/) - Trezor wallet & password manager
+* [Ledger](https://www.ledgerwallet.com/products) - Ledger Blue, Ledger Nano S, Ledger Nano, Ledger HW.1
+* [KeepKey](https://www.keepkey.com/) - KeepKey Bitcoin & Altcoin wallet
+* [CoolWallet](https://coolbitx.com/coolwallet/) - CoolWallet Bitcoin wallet
+
 ### Mining
 #### ASIC Miners
 ##### SHA256 ASICs
@@ -174,6 +193,11 @@ Listed here are a collection of links and information reguarding the most truste
 * [iBeLink](http://www.dualminer.com/iBeLink-DM384M-Dash-and-X11-Miner_p_36.html) - iBeLink DM384M Dash and X11 Miner
 ##### Mining Retailers
 * [Parallel Miner](http://www.parallelminer.com/) - GPU and ASIC miner and accessories
+
+### Bitcoin Mixers
+* [BitMixer](https://bitmixer.io/) - BitMixer w/ [hidden service](bitmixer2whesjgj.onion)
+* [CoinMixer.net](https://coinmixer.net/) - High volume bitcoin mixer w/ [hidden service](http://sq33ayc56fxsfxfy.onion/)
+* [CoinMixer.se](https://coinmixer.se/en/) - Alternative bitcoin mixer
 
 ### Crypto News
 * [CoinDesk](http://www.coindesk.com/)
