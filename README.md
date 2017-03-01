@@ -43,6 +43,8 @@ Listed here is a collection of links and information reguarding the most trusted
     - [X11 ASICs](#x11-asics)
     - [Mining Retailers](#mining-retailers)
 
+- [Trading Bots](#trading-bots)
+
 - [Bitcoin Mixers](#bitcoin-mixers)
 
 - [Crypto News](#crypto-news)
@@ -196,6 +198,11 @@ Listed here is a collection of links and information reguarding the most trusted
 * [iBeLink](http://www.dualminer.com/iBeLink-DM384M-Dash-and-X11-Miner_p_36.html) - iBeLink DM384M Dash and X11 Miner
 ##### Mining Retailers
 * [Parallel Miner](http://www.parallelminer.com/) - GPU and ASIC miner and accessories
+
+### Trading Bots
+* [Poloniex Margin Lending Bot](https://www.poloniexlendingbot.com/) - Margin lending trading bot on Poloniex exchange
+* [The Gunbot](https://bitcointalk.org/index.php?topic=1715214.msg17180502#msg17180502) - Buy low, sell high trading bot built for the Poloniex exchange
+* [Krip.to](https://beta.krip.to) - Automated arbitrage trading bot
 
 ### Bitcoin Mixers
 * [BitMixer](https://bitmixer.io/) - BitMixer w/ [hidden service](bitmixer2whesjgj.onion)
