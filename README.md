@@ -36,6 +36,8 @@ Listed here is a collection of links and information reguarding the most trusted
 
 - [Trading Bots](#trading-bots)
 
+- [Bitcoin Lending](#bitcoin-lending)
+
 - [Wallets](#wallets)
   - [Web Wallets](#web-wallets)
   - [Software Wallets](#software-wallets)
@@ -181,7 +183,14 @@ Listed here is a collection of links and information reguarding the most trusted
 * [Poloniex Margin Lending Bot](https://www.poloniexlendingbot.com/) - Margin lending trading bot on Poloniex exchange
 * [The Gunbot](https://bitcointalk.org/index.php?topic=1715214.msg17180502#msg17180502) - Buy low, sell high trading bot built for the Poloniex exchange
 * [Krip.to](https://beta.krip.to) - Automated arbitrage trading bot
-* [BitcoinBanc](http://thebitcoinbanc.com) - Automated Bitcoin trading site
+* [BitcoinBanc](http://thebitcoinbanc.com) - Automated Bitcoin trading 
+* [CryptoTrader](https://cryptotrader.org/) - Custom coffee script trading bot platform w/ extensive backtesting tools
+
+### Bitcoin Lending
+* [BTCjam](https://btcjam.com/) - The most popular and oldest P2P Bitcoin Lending Community
+* [BitBond](https://www.bitbond.com/?a=3X8KE3AAYE) - P2P Bitcoin Lending Platform
+* [BTCPop](https://btcpop.co) - P2P Social Lending Site
+* [LoanBase](https://loanbase.com/en) - Business bitcoin lending platform
 
 ### Wallets
 #### Web Wallets
